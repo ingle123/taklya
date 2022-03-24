@@ -4,7 +4,7 @@ public class NestedIfElse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+int taklu haiwan
 		int a = 30;
 		int b = 20;
 		int c = 50 ;
